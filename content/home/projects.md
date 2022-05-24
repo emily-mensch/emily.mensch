@@ -29,8 +29,8 @@ content:
       tag: '*'
     - name: Current Research
       tag: Current Research
-    - name: Other
-      tag: Demo
+    - name: Past Research
+      tag: Past Research
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
