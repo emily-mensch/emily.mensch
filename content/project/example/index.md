@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: Effects of waterbirds and fish on biodiversity, ecosystem services. climate mitigation, and crop yields in California rice fields
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Current Research
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
