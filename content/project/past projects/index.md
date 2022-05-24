@@ -1,5 +1,5 @@
 ---
-title: Past Projects
+title: Chemical identification of the sea lamprey alarm cue
 summary: Click here for more information!
 tags:
   - Past Research
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by Sua Truong on Unsplash
+  caption: Photo from the Great Lakes Fishery Commission
   focal_point: Smart
 
 links:
