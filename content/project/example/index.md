@@ -1,6 +1,6 @@
 ---
 title: Effects of waterbirds and fish on biodiversity, ecosystem services, climate mitigation, and crop yields in California rice fields
-summary: An example of using the in-built project page.
+summary: Click here for more information!
 tags:
   - Current Research
 date: '2016-04-27T00:00:00Z'
