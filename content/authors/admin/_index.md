@@ -6,34 +6,35 @@ title: Emily L. Mensch
 superuser: true
 
 # Role/position/tagline
-role: PhD Student 
+role: PhD Student, Ecology Graduate Group 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Davis
-    url: https://www.stanford.edu/
+    url: https://wfcb.ucdavis.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applied ecology, predator-prey dynamics, and conservation of fishes.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Translational ecology
+  - Conservation of freshwater fishes
+  - Predator-prey dynamics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Fisheries and Wildlife
+      institution: Michigan State University
+      year: 2022
+    - course: B.S. in Ecology
+      institution: Colorado State University
+      year: 2016
+    - course: Minor in Conservation Biology
+      institution: Colorado State University
+      year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
