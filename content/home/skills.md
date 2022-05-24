@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: R
   - description: 100%
-    icon: fish-fins
+    icon: fish
     icon_pack: fas
     name: Freshwater ecology
   - description: 10%
