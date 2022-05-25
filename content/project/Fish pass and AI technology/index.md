@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by Great Lakes Fishery Commission
+  caption: Photo of the Boardman River in Traverse City, MI by [the Great Lakes Fishery Commission](http://www.glfc.org/fishpass.php)
   focal_point: Smart
 
 links:
