@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Freshwater ecology
   - description: 
-    icon: trees
+    icon: <i class="fa-light fa-trees"></i>
     icon_pack: fas
     name: Conservation field methods
 # Uncomment to use emoji icons.
