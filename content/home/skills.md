@@ -19,15 +19,15 @@ feature:
   - description: 
     icon: r-project
     icon_pack: fab
-    name: R
+    name: R Programming
   - description: 
     icon: fish
     icon_pack: fas
     name: Freshwater ecology
   - description: 
-    icon: camera-retro
+    icon: trees
     icon_pack: fas
-    name: Photography
+    name: Conservation field methods
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
