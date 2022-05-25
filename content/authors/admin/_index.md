@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an incoming PhD student at UC Davis, co-advised by [Dr. Daniel Karp](https://karp.ucdavis.edu/) and Dr. Andrew Rypel. 
+I am an incoming PhD student at UC Davis, co-advised by [Dr. Daniel Karp](https://karp.ucdavis.edu/) and [Dr. Andrew Rypel](https://sites.google.com/view/rypel-lab/home). 
 
 My research interests are broadly in applied ecology and aquatic conservation, and I aim to use my work to improve consumption of natural resources dually for humans and the organism's we share the earth with. 
 
