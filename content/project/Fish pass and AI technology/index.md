@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by Sua Truong on Unsplash
+  caption: Photo by Great Lakes Fishery Commission
   focal_point: Smart
 
 links:
