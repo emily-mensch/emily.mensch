@@ -1,5 +1,5 @@
 ---
-title: Effect of divergent immigrants on mating behavior and reproductive success of Trinidadian guppies
+title: Effect of divergent immigrants on mating behavior and reproductive success of Trinidadian guppies.
 summary: Click here for more information!
 tags:
   - Past Research
