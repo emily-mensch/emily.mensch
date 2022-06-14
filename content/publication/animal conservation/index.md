@@ -16,7 +16,7 @@ authors:
 author_notes:
   - ''
 
-date: '2019-07-01T00:00:00Z'
+date: '2019-01-01T00:00:00Z'
 doi: '10.1111/acv.12486'
 
 # Schedule page publish date (NOT publication's date).
