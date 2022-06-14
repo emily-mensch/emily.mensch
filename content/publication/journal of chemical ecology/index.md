@@ -1,5 +1,5 @@
 ---
-title: 'A potential role for immigrant reproductive behavior in the outcome of population augmentations'
+title: 'Progress toward the chemical identification of the sea lamprey alarm cue'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
