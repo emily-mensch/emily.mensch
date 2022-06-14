@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'A potential role for immigrant reproductive behavior in the outcome of population augmentations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
