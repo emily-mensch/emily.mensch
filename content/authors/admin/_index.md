@@ -53,8 +53,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/emily-mensch
-  - icon: linkedin
-    icon_pack: fab
+  - icon: cv
+    icon_pack: ai
     link: https://www.linkedin.com/in/emily-mensch/
 
 # Link to a PDF of your resume/CV.
