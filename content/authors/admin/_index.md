@@ -55,7 +55,7 @@ social:
     link: https://github.com/emily-mensch
   - icon: cv
     icon_pack: ai
-    link: https://www.linkedin.com/in/emily-mensch/
+    link: static/uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
