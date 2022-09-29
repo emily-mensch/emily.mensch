@@ -14,7 +14,7 @@ organizations:
     url: https://wfcb.ucdavis.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied ecology, predator-prey dynamics, and conservation of fishes.
+bio: My research interests include applied ecology, predator-prey dynamics, and aquatic conservation.
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,7 @@ highlight_name: true
 
 Welcome! I am a first-year PhD student in Ecology at UC Davis, co-advised by [Dr. Daniel Karp](https://karp.ucdavis.edu/) and [Dr. Andrew Rypel](https://sites.google.com/view/rypel-lab/home). I hold an M.S. degree in Fisheries and Wildlife from [Michigan State University](https://www.canr.msu.edu/fw/) and a B.S.in Biology from [Colorado State University](https://www.biology.colostate.edu/). While my avenues of research have been broad throughout my scientific career, the through line has been using ecological theory to inform and help solve real world problems.
 
-While I originally hail from a landlocked part of the world (Colorado, USA), I've always been wholly fascinated with fish and the underwater world in general. This is evident in my research path -> from researching the physiology of sea lion dive responses, looking at the behavior of Trinidadian guppies to better understand genetic rescue, manipulating a fish's odor 'landscape of fear' to control invasive species, and most recently investigating how odor manipulation can be coupled with novel A.I. technology to better trapping efforts. My current dissertation research will utilize and build off of my past work in marine and aquatic systems, by blending fish conservation, water-bird conservation, and sustainable agriculture. I plan to use a variety of ecologically sound techniques to aid in the goal of quantifying ecosystem services in flooded rice systems in California's agricultural basin- which dually supports important water-bird habitat and could be used as fish rearing systems for conservation and aquaculture. 
+While I originally hail from a landlocked part of the world (Colorado, USA), I've always been wholly fascinated with aquatic environments. This is evident in my research path -> from researching the physiology of sea lion dive responses, looking at the behavior of Trinidadian guppies to better understand genetic rescue, manipulating a fish's odor 'landscape of fear' to control invasive species, and most recently investigating how odor manipulation can be coupled with novel A.I. technology to better trapping efforts. My current dissertation research will utilize and build off of my past work in marine and aquatic systems, by blending fish conservation, water-bird conservation, and sustainable agriculture. I plan to use a variety of ecologically sound techniques to quantifying ecosystem services in flooded rice systems in California's agricultural basin- which dually supports important water-bird habitat and could be used as fish rearing systems for conservation and aquaculture. 
 
 Check out my projects and publications below to learn more about my past and present research interests!
 
