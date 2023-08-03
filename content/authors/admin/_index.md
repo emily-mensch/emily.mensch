@@ -55,7 +55,7 @@ social:
     link: https://github.com/emily-mensch
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/resume2.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -79,4 +79,4 @@ My current research utilizes and builds off of my past work in marine and aquati
 
 Check out my projects and publications below to learn more about my past and present research interests!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref uploads/resume.pdf "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume2.pdf" "newtab" >}}CV{{< /staticref >}}.
