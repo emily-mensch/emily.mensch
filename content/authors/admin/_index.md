@@ -79,4 +79,4 @@ My current research utilizes and builds off of my past work in marine and aquati
 
 Check out my projects and publications below to learn more about my past and present research interests!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref uploads/resume.pdf "newtab" >}}CV{{< /staticref >}}.
