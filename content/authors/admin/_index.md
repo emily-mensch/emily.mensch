@@ -47,7 +47,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MenschEmily
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=hORX4mYAAAAJ&hl=en
   - icon: github
@@ -55,7 +55,7 @@ social:
     link: https://github.com/emily-mensch
   - icon: cv
     icon_pack: ai
-    link: "uploads/resume.pdf"
+    link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -73,7 +73,7 @@ highlight_name: true
 
 Welcome! I am a PhD student in Ecology at UC Davis, co-advised by [Dr. Daniel Karp](https://karp.ucdavis.edu/) and [Dr. Andrew Rypel](https://sites.google.com/view/rypel-lab/home). I hold an M.S. degree in Fisheries and Wildlife from [Michigan State University](https://www.canr.msu.edu/fw/) and a B.S.in Biology from [Colorado State University](https://www.biology.colostate.edu/). My avenues of research have been broad throughout my scientific career, but the through-line has been using ecological theory to inform and help solve real world problems.
 
-While I originally hail from a landlocked part of the world (Colorado, USA), I've always been wholly fascinated with aquatic environments. This is evident in my research path -> from researching the physiology of sea lion dive responses, looking at the behavior of Trinidadian guppies to better understand genetic rescue, manipulating a fish's odor 'landscape of fear' to control invasive species, and most recently investigating how odor manipulation can be coupled with novel A.I. technology to better trapping efforts. 
+While I originally hail from a landlocked part of the world (Colorado, USA), I've always been wholly fascinated with aquatic environments. This is evident in my research path -> from researching the physiology of sea lion dive responses, looking at the behavior of Trinidadian guppies to better understand genetic rescue, manipulating a fish's odor 'landscape of fear' to control invasive species, and investigating how odor manipulation can be coupled with novel A.I. technology to better trapping efforts. 
 
 My current research utilizes and builds off of my past work in marine and aquatic systems, by blending fish conservation, water-bird conservation, and sustainable agriculture. I'm to using a variety of ecologically sound techniques to better understand how we can reconcile biodiversity in large-scale agriculture systems. I hope to disentangle how overwintering waterfowl and fish interact in flooded rice systems in California's agricultural basin and how this affects trophic dynamics and ecosystem services. Using these field methods, we can inform growers and wildlife managers on best practices.
 
