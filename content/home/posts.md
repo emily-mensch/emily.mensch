@@ -9,10 +9,10 @@ headless: false
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+#title: Recent Posts
+#subtitle:
 
-content:
+#content:
   # Filter on criteria
   filters:
     folders:
