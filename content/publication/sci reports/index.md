@@ -1,5 +1,5 @@
 ---
-title: 'Sea lamprey alarm cue comprises water- and chloroform- soluble components'
+title: 'The effect of putrescine on space use and activity in sea lamprey (*Petromyzon marinus*)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ author_notes:
   
 
 date: '2022-01-01T00:00:00Z'
-doi: '10.1007/s10886-022-01384-0'
+doi: 'doi.org/10.1038/s41598-022-22143-x'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -28,10 +28,10 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Chemical Ecology*
-publication_short: In *J. Chem. Ecol.*
+publication: In *Scientific Reports*
+publication_short: In *Sci. Rep.*
 
-abstract: A diversity of aquatic organisms manage predation risk by avoiding waters activated with conspecific alarm cues, a chemical mixture released from injuries. The sea lamprey (*Petromyzon marinus*) is a nocturnal migratory species that relies on its alarm cue to navigate around areas of predation risk when moving through river channels. Identification of the cue’s chemistry would allow managers to harness this innate behavioral response to guide migrating sea lamprey to traps (invasive population in the Laurentian Great Lakes) or to fish passage devices where dams block migrations in their native range. We pursued isolation of the sea lamprey alarm cue through behaviorally guided fractionation, fractionating the alarm cue into water-soluble and chloroform-soluble fractions, each of which elicited a substantial avoidance response.. Recombining the two fractions restored full reactivity, suggesting the alarm cue mixture contains components that exhibit high solubility in water (e.g., nitrogenous compounds), chloroform (e.g., lipids), or perhaps materials that dissolve readily in either solvent. We further screened 13 individual compounds or pure isolates and 6 sub-fractions from the water-soluble fraction and found one of the pure isolates, isoleucine, evoked an avoidance response on its own, but not consistently when found in other mixtures. In a third experiment, we observed no behavioral response after recombining 32 compounds isolated and identified from the water-soluble fraction. These results confirm other suggestions that the process of elucidating alarm cue constituents is challenging. However, we suggest the pursuit is worthwhile given the strong evidence for the utility of alarm cue for use in conservation and management of fishes and other aquatic organisms.  
+abstract: Fish use odor to avoid exposure to predation and disease. Harnessing these odors as repellents is proving useful for management initiatives that conserve native species or control invasive populations. Here, we evaluated the behavioral response of invasive sea lamprey to putrescine, a decay molecule that many prey organisms avoid. Putrescine is found in tissue extracts that contain sea lamprey alarm cue, and human saliva, two mixtures known to elicit flight and avoidance responses in migratory sea lamprey. We used two behavioral assays to evaluate metrics of repellency: behavioral preference (space use) and change in activity rates and found context-dependent results. In smaller assays with individual fish, we found that putrescine had no effect on sea lamprey activity but did induce avoidance. In larger assays with multiple animals, sea lamprey did not avoid putrescine. Our results also showed consistent changes in activity and avoidance behavior in sea lamprey exposed to alarm cue in the smaller assay, concluding that this design could prove useful as a high-throughput screening tool. We also investigated a novel odor identified in sea lamprey skin, petromyzonacil, and found no behavioral effects to this odor on its own or in synergy with putrescine. Our results show limited evidence that putrescine acts as robust repellent for sea lamprey and highlight the importance of environmental context when interpreting avoidance behavior in laboratory settings.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
