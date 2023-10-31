@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emily L. Mensch
+title: Emily L Mensch
 
 # Is this the primary user of the site?
 superuser: true
